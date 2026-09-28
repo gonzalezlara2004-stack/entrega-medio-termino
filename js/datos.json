@@ -1,0 +1,26 @@
+[
+    {
+        "titulo": "Forms of Freedom: African Independence and Nordic Models",
+        "anio": "2014",
+        "tema": "Arquitectura, independencia e identidad",
+        "descripcion": "Una exposición que explora las relaciones entre la arquitectura nórdica y los procesos de independencia de distintos países africanos."
+    },
+    {
+        "titulo": "Another Generosity",
+        "anio": "2018",
+        "tema": "Naturaleza, Antropoceno y ambiente",
+        "descripcion": "Una exposición que propone nuevas relaciones entre la arquitectura, la naturaleza y el ambiente construido."
+    },
+    {
+        "titulo": "What We Share. A Model for Cohousing",
+        "anio": "2021",
+        "tema": "Vivienda colectiva y comunidad",
+        "descripcion": "Una exposición centrada en nuevas formas de vivienda colectiva, convivencia y espacios compartidos."
+    },
+    {
+        "titulo": "Industry Muscle: Five Scores for Architecture",
+        "anio": "2025",
+        "tema": "Cuerpo, ecología y cultura fósil",
+        "descripcion": "Una exposición que investiga las relaciones entre arquitectura, cuerpo, ecología y la cultura vinculada a los combustibles fósiles."
+    }
+]
