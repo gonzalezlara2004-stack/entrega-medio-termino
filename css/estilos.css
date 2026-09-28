@@ -60,3 +60,26 @@ footer {
     text-align: center;
     font-style: italic;
 }
+
+.card {
+    background-color: #DAD7CD;
+    width: 90%;
+    padding: 1.5em;
+    margin: 2em auto;
+    border: 2px solid #588157;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px #3A5A40;
+}
+
+.card h3 {
+    font-size: 1.5rem;
+    color: #344E41;
+}
+
+.card p {
+    font-size: 1rem;
+}
+
+button {
+    height: 3em;
+}
