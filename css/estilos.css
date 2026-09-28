@@ -38,6 +38,7 @@ main {
     border-radius: 20px;
     border: 2px solid #588157;
     box-shadow: 0 4px 10px #3A5A40;
+    height: 3em;
 }
 
 h2 {
@@ -63,6 +64,7 @@ footer {
 
 .card {
     background-color: #DAD7CD;
+    color: #344E41;
     width: 90%;
     padding: 1.5em;
     margin: 2em auto;
@@ -80,6 +82,13 @@ footer {
     font-size: 1rem;
 }
 
-button {
-    height: 3em;
+
+.dark {
+    background-color: #344E41;
+    color: #DAD7CD;
+}
+
+.dark #exposiciones {
+    background-color: #3A5A40;
+    color: #DAD7CD;
 }

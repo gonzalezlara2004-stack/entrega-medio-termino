@@ -4,7 +4,7 @@ const cuerpo = document.querySelector("body");
 
 function cargarExposiciones() {
 
-    fetch('datos.json')
+    fetch('js/datos.json')
     .then(res => res.json())
     .then(datos => {
 
@@ -28,3 +28,10 @@ function cargarExposiciones() {
 }
 
 botonCargar.addEventListener("click", cargarExposiciones);
+
+function cambiarTema() {
+    cuerpo.classList.toggle("dark");
+}
+
+botonTema.addEventListener("click", cambiarTema);
+
