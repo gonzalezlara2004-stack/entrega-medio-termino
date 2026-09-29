@@ -71,7 +71,8 @@ footer {
     margin: 2em auto;
     border: 2px solid #588157;
     border-radius: 20px;
-    box-shadow: -8px 8px 10px #588157;;
+    box-shadow: -8px 8px 10px #588157;
+    
 }
 
 .card h3 {
